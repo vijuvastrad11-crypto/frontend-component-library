@@ -1,0 +1,28 @@
+
+
+.test-button {
+  background: var(--color-primary);
+  color: var(--color-textInverse);
+  border: 1px solid var(--color-border);
+  padding: 12px 24px;
+  border-radius: 999px;
+}
+
+.btn {
+  padding: 12px 24px;
+  border-radius: 999px;
+  cursor: pointer;
+}
+
+.btn-primary {
+  background: orange;
+}
+
+.btn-secondary {
+  background: white;
+  border: 1px solid black;
+}
+
+.btn-tertiary {
+  background: lightgreen;
+}

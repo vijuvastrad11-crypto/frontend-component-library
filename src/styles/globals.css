@@ -1,0 +1,14 @@
+@import "tailwindcss";
+
+html,
+body,
+#app {
+    min-height: 100%;
+}
+
+body {
+    margin: 0;
+    background: var(--color-page);
+    color: var(--color-text);
+    font-family: system-ui, sans-serif;
+}
